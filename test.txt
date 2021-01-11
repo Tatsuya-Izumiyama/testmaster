@@ -1,0 +1,8 @@
+①サイドメニューの項目を作成
+②ヘッダー、フッターを設定
+③再度メニューを設定
+
+
+		
+		
+<?php echo Form::button('submitsearch', '絞り込む', array('placeholder' => '090-1234-5678;')); ?>
